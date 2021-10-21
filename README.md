@@ -4,4 +4,4 @@ This is a basic example of how to use several different libraries for classifica
 
 Some code was borrowed, with love, from the notebooks of the Kaggle community.
 
-Note that at the time of this classification, certain libraries used within are not available for Macs running the new M1 silicone processor.
+Note that at the time of this publishing, certain libraries used within are not available for Macs running the new M1 silicone processor.
